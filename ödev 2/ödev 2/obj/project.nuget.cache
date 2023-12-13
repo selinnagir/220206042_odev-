@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fq7EbZ4zIDS2XM1H8hhwKshINHna2LL4OVPBXZZuvg2Ko7NHrO3FZ4LbVrY9aYqzevwhjEE5w+VL3WTCX9T5Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\_CASPER_\\source\\repos\\ödev 2\\ödev 2\\ödev 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\_CASPER_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\_CASPER_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\_CASPER_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\_CASPER_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
